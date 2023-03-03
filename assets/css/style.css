@@ -177,7 +177,7 @@ section {
 }
 
 .header.header-scrolled {
-  background: #fff;
+  background: #1a0049;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
 }
@@ -195,7 +195,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #ffffff;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -231,7 +231,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #000000;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -247,7 +247,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #000000;
+  color: #ae00ff;
 }
 
 .navbar .getstarted,
@@ -556,7 +556,7 @@ section {
 .about h2 {
   font-size: 24px;
   font-weight: 700;
-  color: #012970;
+  color: #1a0049;
 }
 
 .about p {
@@ -570,7 +570,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #4154f1;
+  background: #1a0049;
   box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
 }
 
@@ -2405,3 +2405,4 @@ section {
   font-size: 13px;
   color: #012970;
 }
+

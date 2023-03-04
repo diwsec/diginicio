@@ -195,7 +195,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: ##012970;
+  color: #152FA3;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -231,7 +231,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #EA1889;
+  color: #152FA3;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -247,7 +247,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #5D147C;
+  color: #4154f1;
 }
 
 .navbar .getstarted,
@@ -454,11 +454,11 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #012970;
+  color: #152FA3;
 }
 
 .hero h2 {
-  color: #012970;
+  color: #152FA3;
   margin: 15px 0 0 0;
   font-size: 26px;
 }
@@ -470,7 +470,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #012970;
+  background: #152FA3;
   box-shadow: 0px 5px 30px rgba(37, 43, 97, 0.4);
 }
 
@@ -549,7 +549,7 @@ section {
 .about h3 {
   font-size: 14px;
   font-weight: 700;
-  color: #4154f1;
+  color: #152FA3;
   text-transform: uppercase;
 }
 
@@ -610,7 +610,7 @@ section {
 
 .values .box h3 {
   font-size: 24px;
-  color: #012970;
+  color: #152FA3;
   font-weight: 700;
   margin-bottom: 18px;
 }
@@ -749,7 +749,7 @@ section {
 }
 
 .features .feature-icons h3 {
-  color: #012970;
+  color: #152FA3;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 20px;
@@ -770,13 +770,13 @@ section {
   font-size: 20px;
   font-weight: 700;
   margin: 0 0 10px 0;
-  color: #012970;
+  color: #152FA3;
 }
 
 .features .feature-icons .content .icon-box i {
   font-size: 44px;
   line-height: 44px;
-  color: #0245bc;
+  color: #5D147C;
   margin-right: 15px;
 }
 

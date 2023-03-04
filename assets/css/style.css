@@ -135,7 +135,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #190046;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -177,7 +177,7 @@ section {
 }
 
 .header.header-scrolled {
-  background: #1a0049;
+  background: #ffffff;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
 }
@@ -231,7 +231,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #ffffff;
+  color: #EA1889;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -247,7 +247,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ae00ff;
+  color: #5D147C;
 }
 
 .navbar .getstarted,
@@ -458,7 +458,7 @@ section {
 }
 
 .hero h2 {
-  color: #d3d3d3;
+  color: #ffffff;
   margin: 15px 0 0 0;
   font-size: 26px;
 }
@@ -470,7 +470,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #000000;
+  background: #EA1889;
   box-shadow: 0px 5px 30px rgba(37, 43, 97, 0.4);
 }
 

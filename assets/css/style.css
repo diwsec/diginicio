@@ -135,7 +135,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #190046;
+  background: #4154f1;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -195,7 +195,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #152FA3;
+  color: #012970;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -252,7 +252,7 @@ section {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #8c00ff;
+  background: #152FA3;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -454,11 +454,11 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #152FA3;
+  color: #012970;
 }
 
 .hero h2 {
-  color: #152FA3;
+  color: #000000;
   margin: 15px 0 0 0;
   font-size: 26px;
 }
@@ -549,14 +549,14 @@ section {
 .about h3 {
   font-size: 14px;
   font-weight: 700;
-  color: #152FA3;
+  color: #4154f1;
   text-transform: uppercase;
 }
 
 .about h2 {
   font-size: 24px;
   font-weight: 700;
-  color: #1a0049;
+  color: #012970;
 }
 
 .about p {
@@ -776,7 +776,7 @@ section {
 .features .feature-icons .content .icon-box i {
   font-size: 44px;
   line-height: 44px;
-  color: #5D147C;
+  color: #4154f1;
   margin-right: 15px;
 }
 
